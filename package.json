@@ -1,0 +1,25 @@
+{
+  "name": "api-rest-node",
+  "version": "1.0.0",
+  "description": "Api rest with NODEJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "clear && nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guillermo David Paredes Torrez",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.2",
+    "crypto": "^1.0.1",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "jwt-simple": "^0.5.1",
+    "moment": "^2.20.1",
+    "mongoose": "^4.13.9"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.10"
+  }
+}
