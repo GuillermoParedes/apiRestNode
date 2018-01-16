@@ -20,6 +20,7 @@
     "mongoose": "^4.13.9"
   },
   "devDependencies": {
+    "generate-readme": "^0.3.1",
     "nodemon": "^1.14.10"
   }
 }
