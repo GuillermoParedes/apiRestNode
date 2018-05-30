@@ -1,5 +1,5 @@
 {
-  "name": "api-rest-node",
+  "name": "node-rest-starter-kit",
   "version": "1.0.0",
   "description": "Api rest with NODEJS",
   "main": "index.js",
@@ -22,5 +22,18 @@
   "devDependencies": {
     "generate-readme": "^0.3.1",
     "nodemon": "^1.14.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuillermoParedes/apiRestNode.git"
+  },
+  "keywords": [
+    "node",
+    "rest",
+    "express"
+  ],
+  "bugs": {
+    "url": "https://github.com/GuillermoParedes/apiRestNode/issues"
+  },
+  "homepage": "https://github.com/GuillermoParedes/apiRestNode#readme"
 }
